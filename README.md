@@ -40,15 +40,14 @@ Learning. Leading. Building.
 ## 💖 To Contribute
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=plastic)](https://buymeacoffee.com/divyanshsood22) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&style=plastic)](https://patreon.com/divyanshsood22) 
 
+---
+
+<p align="center">
+  "Focused on Growing, Personally & Professionally."
+</p>
 
 <p align="center">
 
 [![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=divyanshsood22&label=Profile%20Views&color=70a5fd&lcolor=09071F&style=plastc)](https://github.com/divyanshsood22)
 
-</p>
-
----
-
-<p align="center">
-  "Focused on Growing, Personally & Professionally."
 </p>
