@@ -33,16 +33,6 @@ Learning. Leading. Building.
 <br>
 
 
-## 📈 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshsood22&show_icons=true&theme=tokyonight" alt="Divyansh's GitHub stats"/>
-</p>
-
-
-<br>
-
-
 ## 💖 To Contribute
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=plastic)](https://buymeacoffee.com/divyanshsood22) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&style=plastic)](https://patreon.com/divyanshsood22) 
 
