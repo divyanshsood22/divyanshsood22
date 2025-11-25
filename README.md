@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://www.thesood.dev/">
-        <img src="./assets/banner.jpg" style="border-radius:22px;" />
+        <img src="./assets/banner.jpg"/>
     </a>
 </p>
 
 
 <div align = "center">
 
-## <img src="./assets/icons/profile.png" height="40" align="center" style="padding-bottom:3px"> About Me
+## <img src="https://cdn3.emoji.gg/emojis/1344-tanukihidetree.gif" align="center" style="padding-bottom:5px" height="50px" alt="meowheart"></a> About Me
 <!-- &nbsp; -->
 Hi 👋, I'm Divyansh Sood, a developer committed to building practical, well-structured solutions with a focus on backend development and system efficiency. I manage creator communities, work closely with content teams, and enjoy turning ideas into functional products that actually solve problems. I’m continuously improving my skills in Python, Java, and general software design, while staying involved in leadership and project management. Open to collaborations, technical contributions, or any opportunity where solid execution matters more than fluff.
 </div>
