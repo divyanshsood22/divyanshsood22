@@ -28,9 +28,3 @@ Hi 👋, I'm Divyansh Sood, a developer committed to building practical, well-st
     </a>
 </div>
 
-
-<div align = "left" style="margin-top:50px">
-
-[![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=divyanshsood22&label=Profile%20Views&color=1271d6&lcolor=09071F&style=flat)](https://github.com/divyanshsood22)
-
-</div>
