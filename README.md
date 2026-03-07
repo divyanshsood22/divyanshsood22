@@ -19,7 +19,6 @@ Hi 👋, I'm Divyansh Sood, a developer committed to building practical, well-st
     ![vscode](https://api.statusbadges.me/badge/vscode/742296794586808361)
     ![playing](https://api.statusbadges.me/badge/playing/742296794586808361)
     <img alt="Apple Music status" src="https://applemusic-badge.divyanshsood22.workers.dev/badge.svg" />
-    <img alt="YouTube status" src="https://youtube-rpc-badge.divyanshsood22.workers.dev/watching.svg" />
 
     
 </div>
